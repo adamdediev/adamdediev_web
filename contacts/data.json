@@ -1,0 +1,12 @@
+{
+  "data":[
+    {"id":1,"device":"JetFlash","product":"Flash","vendor":"Microsoft","count":4,"available":true,"description":"Флеш"},
+  {"id":2,"device":"JetFlash2","product":"Flash","vendor":"Microsoft","count":3,"available":true,"description":"Флеш2"},
+  {"id":3,"device":"JetFlash3","product":"Flash","vendor":"Apple","count":8,"available":true,"description":"Флеш3"},
+  {"id":4,"device":"JetFlash4","product":"Flash","vendor":"Microsoft","count":23,"available":false,"description":"Флеш4"},
+  {"id":5,"device":"JetFlash5","product":"Flash","vendor":"Microsoft","count":44,"available":true,"description":"Флеш5"},
+  {"id":6,"device":"JetFlash6","product":"Flash","vendor":"Apple","count":0,"available":false,"description":"Флеш6"},
+  {"id":7,"device":"JetFlash7","product":"Flash","vendor":"Microsoft","count":3,"available":true,"description":"Флеш7"},
+  {"id":8,"device":"JetFlash8","product":"Flash","vendor":"Microsoft","count":1,"available":false,"description":"Флеш8"},
+  {"id":9,"device":"PhoneS","product":"Phone","vendor":"Samsung","count":2,"available":false,"description":"Телефон"},
+  {"id":10,"device":"JetFlash10","product":"Flash","vendor":"Microsoft","count":10,"available":true,"description":"Флеш10"}]}
